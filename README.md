@@ -9,6 +9,8 @@ Recently added:
 C - LOKI91
 C - DES
 
+These Loki91 and Des are the code used in Chao's paper, the code in Bruce Schneier's Applied Cryptography textbook.
+
 Up Next:
 
 Javascript ChaCha20 - In Progress
